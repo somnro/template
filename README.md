@@ -13,6 +13,8 @@
     2.或命令下载 git clone https://github.com/somnro/template.git（指定目录 git clone https://github.com/somnro/template.git ./test1 ）,然后用idea打开
     3.或小乌龟界面下载，并修改目录
     4.删除.git目录（重复这个步骤：## github建立空项目，本地代码文件夹推送）
-    
+    5.pom.xml 文件下列地方修改自己的名称
+        <artifactId>template</artifactId>
+        <name>template</name>
     
 
