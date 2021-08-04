@@ -16,6 +16,8 @@
     3.pom.xml 文件下列地方修改自己的名称
         <artifactId>template</artifactId>
         <name>template</name>
+	application.properties 的 spring.application.name
+	
     
 ## 测试地址
 	http://localhost:20005/test/1
