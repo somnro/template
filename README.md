@@ -17,4 +17,5 @@
         <artifactId>template</artifactId>
         <name>template</name>
     
-
+## 测试地址
+	http://localhost:20005/test/1
